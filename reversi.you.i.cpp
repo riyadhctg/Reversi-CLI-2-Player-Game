@@ -2,9 +2,6 @@
 
 // Developed by Riyadh Sharif 
 // Utilized open source project by Grant Slatton
-// All code is released to the public domain under the terms of [http://unlicense.org]
-
-// Puzzle Solution for You.i Labs
 
 #include "stdafx.h"
 #include <string.h>
